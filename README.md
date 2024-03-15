@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>About Me 📌</h1>
+<h1>About Me</h1>
 
-- 👋 I am Shahd Abu-Daghash
-- 💻 I was an intern in a local company for 4 months
-- 🌱 I am currently focusing on learning JSF and SQL
+- A fifth-year Computer Engineering Student @ Birzeit University
+- Former Intern @ Google - London
+- Former Intern @ Meta - London
+- Passionate about Android Development
+- 🌱 Contributed on the Android Open Source Project (AOSP)
 
 <br />
 
