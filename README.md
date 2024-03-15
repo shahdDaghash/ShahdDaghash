@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
   <a href = "mailto:shahddaghash18@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/shahd-abu-daghash-88845a1ba/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+  <a href = "https://www.linkedin.com/in/shahd-abu-daghash/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
  
 </p>
 
